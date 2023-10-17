@@ -1,0 +1,14 @@
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.AssemblyInfoInputs.cache
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.AssemblyInfo.cs
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\polin\RiderProjects\Labirint\Labirint\bin\Debug\net7.0\Labirint.exe
+C:\Users\polin\RiderProjects\Labirint\Labirint\bin\Debug\net7.0\Labirint.deps.json
+C:\Users\polin\RiderProjects\Labirint\Labirint\bin\Debug\net7.0\Labirint.runtimeconfig.json
+C:\Users\polin\RiderProjects\Labirint\Labirint\bin\Debug\net7.0\Labirint.dll
+C:\Users\polin\RiderProjects\Labirint\Labirint\bin\Debug\net7.0\Labirint.pdb
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.dll
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\refint\Labirint.dll
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.pdb
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\Labirint.genruntimeconfig.cache
+C:\Users\polin\RiderProjects\Labirint\Labirint\obj\Debug\net7.0\ref\Labirint.dll
